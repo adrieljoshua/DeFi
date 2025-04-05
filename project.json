@@ -1,0 +1,102 @@
+[
+  {
+    "module": "Frontend",
+    "submodules": [
+      {
+        "title": "User Dashboard",
+        "description": "A sleek, Web3-ready interface that provides users with a comprehensive view of their portfolio, including assets, loans, and earnings. The dashboard features real-time analytics and AI-driven risk assessments to help users make informed decisions.",
+        "selected": true
+      },
+      {
+        "title": "Lending & Borrowing UI",
+        "description": "Intuitive interfaces for users to easily lend and borrow crypto assets. This includes forms for overcollateralized loans, displaying interest rates, and providing clear information on terms and conditions.",
+        "selected": true
+      },
+      {
+        "title": "Liquidity Pool Management",
+        "description": "Allows users to view and manage their participation in various liquidity pools. Users can see their contributions, current yields, and the performance of the pools they are involved in.",
+        "selected": true
+      },
+      {
+        "title": "Governance Interface",
+        "description": "A dedicated section for users to participate in DAO governance. Users can vote on proposals related to interest rates, protocol upgrades, and other key decisions affecting the platform.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Backend",
+    "submodules": [
+      {
+        "title": "Smart Contract Development",
+        "description": "Robust smart contracts that facilitate lending, borrowing, and liquidity pool management. These contracts ensure secure transactions and enforce the rules of the protocol without the need for intermediaries.",
+        "selected": true
+      },
+      {
+        "title": "Interest Rate Algorithm",
+        "description": "An algorithm that dynamically adjusts interest rates based on supply and demand metrics. This ensures competitive rates for borrowers and attractive yields for lenders, optimizing the overall efficiency of the platform.",
+        "selected": true
+      },
+      {
+        "title": "Cross-Chain Integration",
+        "description": "Enables the platform to support multiple assets across different blockchain networks. This integration allows users to lend and borrow assets from various chains seamlessly.",
+        "selected": true
+      },
+      {
+        "title": "Identity Verification System",
+        "description": "Integration with Self Protocol to provide users with verified identities for credit delegation. This system enhances trust and security, allowing users to access better loan terms based on their on-chain credit scores.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Liquidity Management",
+    "submodules": [
+      {
+        "title": "Overcollateralized Loans",
+        "description": "A feature that allows users to secure loans by providing collateral that exceeds the loan amount. This minimizes risk for lenders and ensures that borrowers can access funds without traditional credit checks.",
+        "selected": true
+      },
+      {
+        "title": "Permissionless Liquidity Pools",
+        "description": "Liquidity pools that allow users to contribute funds without needing permission from a central authority. This feature promotes inclusivity and enables anyone to participate in the DeFi ecosystem.",
+        "selected": true
+      },
+      {
+        "title": "Yield Farming Mechanism",
+        "description": "A system that allows users to earn yield by supplying idle tokens to liquidity pools. Users can maximize their returns by strategically managing their assets across different pools.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Analytics & Reporting",
+    "submodules": [
+      {
+        "title": "Real-Time Analytics Dashboard",
+        "description": "A comprehensive dashboard that provides users with real-time insights into their portfolio performance, including asset values, loan statuses, and yield generation. This feature helps users track their investments effectively.",
+        "selected": true
+      },
+      {
+        "title": "AI Risk Analysis",
+        "description": "Utilizes artificial intelligence to assess the risk associated with users' portfolios. This analysis provides personalized recommendations to help users mitigate risks and optimize their investment strategies.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Governance & Community",
+    "submodules": [
+      {
+        "title": "DAO Governance Framework",
+        "description": "A decentralized governance model that empowers users to participate in decision-making processes. Users can propose and vote on changes to the protocol, ensuring that the platform evolves according to community needs.",
+        "selected": true
+      },
+      {
+        "title": "Community Engagement Tools",
+        "description": "Features that facilitate communication and collaboration among users, including forums, discussion boards, and voting mechanisms. These tools foster a strong community around the platform.",
+        "selected": true
+      }
+    ]
+  }
+]
